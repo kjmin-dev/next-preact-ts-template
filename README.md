@@ -1,10 +1,10 @@
 # next-preact-ps-template
 
 ## This template contains:
-[TypeScript][https://www.typescriptlang.org/]
-[Next.js][https://nextjs.org/]
-[Preact.js][https://preactjs.com/]
-[Ant Design][https://ant.design/]
+- [TypeScript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
+- [Preact.js](https://preactjs.com/)
+- [Ant Design](https://ant.design/)
 
 ## Getting Started
 
